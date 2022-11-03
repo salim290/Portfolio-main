@@ -1,7 +1,9 @@
 # Portfolio
 
 ## Demo
-![](../../../../var/folders/ht/8vf2xtjj5n70z4g69xp9gw2m0000gn/T/TemporaryItems/NSIRD_screencaptureui_fhNVpt/Bildschirm­foto 2022-11-03 um 13.35.13.png)
+<p align="center">
+  <img src="/images/screenshot.png")
+</p>
 
 <h2> How To Use </h2>
 
