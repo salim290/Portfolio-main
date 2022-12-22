@@ -502,7 +502,7 @@ const projects = {
     {
       id: "1",
       name: "Youtube Downloader",
-      url: "https://github.com/salim290/Youtube-Downloader/",
+      url: "https://github.com/salim290/Youtube-Downloader",
       description:
         "A desktop GUI which can be used to download youtube videos and playlist with desired quality and type on desktop.",
       languages: [
