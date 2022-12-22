@@ -1,7 +1,6 @@
 {
-  "private": true,
-  "name": "Portfolio-main",
   "homepage": "https://salim290.github.io/Portfolio-main",
+  "name": "Portfolio-main",
   "version": "1.0.0",
   "scripts": {
     "predeploy": "npm run build",
