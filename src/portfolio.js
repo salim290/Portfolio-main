@@ -24,8 +24,8 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/salim290",
-  linkedin: "linkedin.com/in/salim-alkhodor-72a1731aa",
-  gmail: "im.salimalkhodor@gmail.com",
+  linkedin: "https://linkedin.com/in/salim-alkhodor-72a1731aa",
+  gmail: "salimalkhodor@gmail.com",
   //gitlab: "https://gitlab.com/",
   facebook: "https://www.facebook.com/salem.alkther",
   twitter: "https://twitter.com/Salimalkhodor/",
@@ -545,7 +545,7 @@ const projects = {
     {
       id: "3",
       name: "Event Scheduler",
-      url: "https://github.com/vvHacker007/Event-Scheduler",
+      url: "https://github.com/salim290/Event-Scheduler",
       description:
         "It is an all-purpose scheduler software. It is designed to monitor all the activities and give appropriate reminders for them.",
       languages: [
@@ -574,7 +574,7 @@ const projects = {
     {
       id: "4",
       name: "Movie Reccomendation System",
-      url: "https://github.com/vvHacker007/Movie-Recommendation-Systems",
+      url: "https://github.com/salim290/Movie-Recommendation-Systems",
       description:
         "Made three python kernels explaining and implementing the three different types of movie recommender systems.",
       languages: [
@@ -591,7 +591,7 @@ const projects = {
     {
       id: "3",
       name: "Login Authenticator",
-      url: "https://github.com/vvHacker007/Login-Authenticator",
+      url: "https://github.com/salim290/Login-Authenticator",
       description: "Made a template for a Login Authenticator using Flask ",
       languages: [
         {
@@ -615,7 +615,7 @@ const projects = {
     {
       id: "4",
       name: "Calculator",
-      url: "https://github.com/vvHacker007/Calculator",
+      url: "https://github.com/salim290/Calculator",
       description:
         "Made a GUI based Calculator. Also made an executable file for the project which can be downloaded and used by anyone on their personal computer.",
       languages: [
@@ -628,7 +628,7 @@ const projects = {
     {
       id: "5",
       name: "Notepad",
-      url: "https://github.com/vvHacker007/Notepad",
+      url: "https://github.com/salim290/Notepad",
       description:
         "Made a GUI based Notepad. Also made an executable file for the project which can be downloaded and used by anyone on their personal computer.",
       languages: [
@@ -641,7 +641,7 @@ const projects = {
     {
       id: "6",
       name: "Tetris",
-      url: "https://github.com/vvHacker007/Tetris",
+      url: "https://github.com/salim290/Tetris",
       description: "Made a GUI based arcade game Tetris using pygame.",
       languages: [
         {
@@ -653,7 +653,7 @@ const projects = {
     {
       id: "7",
       name: "Steganography",
-      url: "https://github.com/vvHacker007/Steganography",
+      url: "https://github.com/salim290/Steganography",
       description:
         "A CLI tool to conceal messages within a file, text, image, or video.",
       languages: [
@@ -670,7 +670,7 @@ const projects = {
     {
       id: "8",
       name: "Mini Paint",
-      url: "https://github.com/vvHacker007/Mini-Paint",
+      url: "https://github.com/salim290/Mini-Paint",
       description: "GUI based Mini Paint Application.",
       languages: [
         {
@@ -682,7 +682,7 @@ const projects = {
     {
       id: "9",
       name: "Speedtest",
-      url: "https://github.com/vvHacker007/Speed-test",
+      url: "https://github.com/salim290/Speed-test",
       description:
         "An internet speed testing application which can notify about the download speed, upload speed, and also the reaction time of the connection.",
       languages: [
@@ -695,7 +695,7 @@ const projects = {
     {
       id: "10",
       name: "Cat Classifier",
-      url: "https://github.com/vvHacker007/Cat-Classifier",
+      url: "https://github.com/salim290/Cat-Classifier",
       description:
         "Binary Cat Classifier made by hard coding Neural Networks in Python without using libraries such as Tensorflow or keras.",
       languages: [
@@ -712,7 +712,7 @@ const projects = {
     {
       id: "11",
       name: "Snake",
-      url: "https://github.com/vvHacker007/Snake",
+      url: "https://github.com/salim290/Snake",
       description:
         "A snake game which covers all the basic features like score, high score and an automated speed increase simultaneously when the snake eats the food.",
       languages: [
@@ -804,7 +804,7 @@ const projects = {
     {
       id: "15",
       name: "my own Website",
-      url: "https://vvhacker007.github.io/Portfolio/",
+      url: "https://github.com/salim290",
       description: "You are stalking it right now 😉",
       languages: [
         {
