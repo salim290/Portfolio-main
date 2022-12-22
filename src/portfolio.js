@@ -804,7 +804,7 @@ const projects = {
     {
       id: "15",
       name: "my own Website",
-      url: "https://github.com/salim290",
+      url: "https://github.com/salim290/Portfolio-main",
       description: "You are stalking it right now 😉",
       languages: [
         {
