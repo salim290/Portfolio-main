@@ -1,12 +1,12 @@
 {
   "private": true,
   "name": "personalPortfolio",
-  "homepage": "http://salim-a.de/",
+  "homepage": "http://salim290.github.io/Portfolio-main",
   "version": "1.0.0",
   "scripts": {
-    "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
