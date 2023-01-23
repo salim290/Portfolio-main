@@ -11,8 +11,8 @@ const settings = {
 const greeting = {
   title: "Hello 👋.",
   title2: "Salim",
-  logo_name: "Salim ;)",
-  nickname: "harry / picleric",
+  logo_name: "Salim 😎",
+  nickname: "",
   full_name: "Salim Alkhodor",
   subTitle:
     "Full Stack Developer, Open Source Enthusiast, Life Long Learner.",
