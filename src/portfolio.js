@@ -400,7 +400,7 @@ const experience = {
           company: "Home Klick GmbH",
           company_url: "https://home-klick.de/",
           logo_path: "img.png",
-          duration: "Aug 2022 - Present",
+          duration: "Aug 2022 - Dec 2022",
           location: "Presence",
           description: `Developed predictive models and deployed it on a full-stack website using Wordpress and React. 
           `,
