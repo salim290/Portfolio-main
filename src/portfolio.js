@@ -259,6 +259,20 @@ const degrees = {
       ],
       website_link: "https://www.htw-berlin.de/",
     },
+    {
+      title: "South-Eastern Finland University of Applied Sciences (Xamk)",
+      subtitle: "Exchange Program in Computer Science",
+      logo_path: "img_3.png",
+      alt_name: "XAMK Mikkeli",
+      duration: "Jan 2023 - Jul 2023",
+      descriptions: [
+        "⚡  I have successfully completed 5 different courses at Xamk, it was very interesting experience.",
+        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
+        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
+        // "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
+      ],
+      website_link: "https://www.xamk.fi/en/frontpage/",
+    },
   ],
 };
 
