@@ -262,7 +262,7 @@ const degrees = {
     {
       title: "South-Eastern Finland University of Applied Sciences (Xamk)",
       subtitle: "Exchange Program in Computer Science",
-      logo_path: "img_3.png",
+      logo_path: "img_4.png",
       alt_name: "XAMK Mikkeli",
       duration: "Jan 2023 - Jul 2023",
       descriptions: [
