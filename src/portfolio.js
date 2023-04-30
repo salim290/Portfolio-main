@@ -157,13 +157,13 @@ const skills = {
              color: "#0865A6",
           },
         },
-        // {
-        //   skillName: "Wordpress",
-        //   fontAwesomeClassname: "simple-icons:wordpress",
-        //   style: {
-        //     color: "#207297",
-        //   },
-        // },
+        {
+          skillName: "Wordpress",
+           fontAwesomeClassname: "simple-icons:wordpress",
+          style: {
+             color: "#207297",
+           },
+         },
         // {
         //   skillName: "Apache",
         //   fontAwesomeClassname: "simple-icons:apache",
@@ -171,6 +171,13 @@ const skills = {
         //     color: "#CA1A22",
         //   },
         // },
+        {
+          skillName: "SwiftUI",
+          fontAwesomeClassname: "simple-icons:swift",
+          style: {
+            color: "#E94E32",
+          },
+        },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
