@@ -254,10 +254,24 @@ const degrees = {
   degrees: [
     {
       title: "HTW University of Applied Sciences Berlin",
+      subtitle: "Master in International Media and Computing",
+      logo_path: "SRM_Logo.png",
+      alt_name: "HTW Berlin",
+      duration: "Apr 2024 - Present",
+      descriptions: [
+        "⚡  After completing my Bachelor's degree, I embarked on pursuing a Master's degree to further enrich my knowledge base and engage in a broader spectrum of projects.",
+        // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
+        // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
+        // "⚡ I have implemented several projects based on what I've learnt under my Computer Engineering course. ",
+      ],
+      website_link: "https://www.htw-berlin.de/",
+    },
+    {
+      title: "HTW University of Applied Sciences Berlin",
       subtitle: "Bachelors in International Media and Computing",
       logo_path: "SRM_Logo.png",
       alt_name: "HTW Berlin",
-      duration: "2019 - 2023",
+      duration: "Apr 2019 - Nov 2023",
       descriptions: [
         "⚡  I'm currently pursuing my Bachelors in Computer Science and Engineering.",
         // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
