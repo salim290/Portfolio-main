@@ -28,7 +28,6 @@ const socialMediaLinks = {
   gmail: "salimalkhodor@gmail.com",
   //gitlab: "https://gitlab.com/",
   facebook: "https://www.facebook.com/salem.alkther",
-  twitter: "https://twitter.com/Salimalkhodor/",
   instagram: "https://www.instagram.com/salim_kh290/",
 };
 
@@ -82,7 +81,7 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "logos-nodejs",
           style: {
             color: "#339933",
           },
@@ -117,7 +116,7 @@ const skills = {
         // },
         {
           skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
+          fontAwesomeClassname: "logos-java",
           style: {
             color: "#f89820",
           },
@@ -144,6 +143,20 @@ const skills = {
           },
         },
         {
+          skillName: "Spring Boot",
+          fontAwesomeClassname: "simple-icons:spring",
+          style: {
+            color: "#6DB33F"
+          },
+        },
+        {
+          skillName: "Kotlin",
+          fontAwesomeClassname: "simple-icons:kotlin",
+          style: {
+            "color": "#7F52FF"
+          }
+        },
+        {
           skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: {
@@ -153,9 +166,6 @@ const skills = {
         {
           skillName: "Postman",
           fontAwesomeClassname: "simple-icons:postman",
-          style: {
-             color: "#0865A6",
-          },
         },
         {
           skillName: "Wordpress",
@@ -184,7 +194,7 @@ const skills = {
           style: {
             color: "#E94E32",
           },
-        },
+        }
       ],
     },
     {
@@ -357,16 +367,6 @@ const certifications = {
   //   color_code: "#fe0037",
   // },
   {
-    title: "Olympiad",
-    subtitle: "Ramanujan Mathematics Olympiad",
-    logo_path: "Olympiad.png",
-    certificate_link:
-      "https://drive.google.com/file/d/1SAKHjKisJIY3-FRZQGKLusdsGDusXAjX/view",
-    alt_name: "Postman",
-    // color_code: "#f36c3d",
-    color_code: "#fffbf3",
-  },
-  {
     title: "Competitive Programming",
     subtitle: "Reply Challenges",
     logo_path: "Reply.jfif",
@@ -431,16 +431,26 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Full Stack Developer",
+          company: "Adesso",
+          company_url: "https://www.adesso.de",
+          logo_path: "img_5.png",
+          duration: "Feb 2025 - Present",
+          location: "Presence",
+          description: `I am currently working at adesso as a Full Stack Developer, actively engaged in a variety of client-facing and internal projects. I collaborate closely with customers to deliver tailored solutions while also contributing to in-house initiatives that drive innovation across the company.`,
+          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
+          color: "#0077cf",
+        },
+        {
           title: "Web developer (student work)",
           company: "Home Klick GmbH",
           company_url: "https://home-klick.de/",
           logo_path: "img.png",
           duration: "Aug 2022 - Dec 2022",
           location: "Presence",
-          description: `Developed predictive models and deployed it on a full-stack website using Wordpress and React. 
-          `,
+          description: `Developed predictive models and deployed it on a full-stack website using Wordpress and React.`,
           // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
-          color: "#ee3c26",
+          color: "#FF4D00",
         },
         {
           title: "Internationalization and Localization (student work)",
@@ -452,7 +462,7 @@ const experience = {
           description: `Internationalization and Localization for whole the project 'German International University of Applied Sciences' 
           `,
           // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
-          color: "#0071C5",
+          color: "#6bc100",
         },
 
       ],
