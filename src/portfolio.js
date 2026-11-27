@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Full Stack Developer, Open Source Enthusiast, Life Long Learner.",
   resumeLink:
-    "https://drive.google.com/file/d/1zMnHO_CANQuNHmr_yJwEbXbc2gfEOKIY/view?usp=sharing",
+    "https://drive.google.com/file/d/1HG8j4az40vUwm-FPNgb9OBLyMY7a8hQv/view?usp=sharing",
   mail: "mailto:salimalkhodor@gmail.com",
 };
 
@@ -435,7 +435,7 @@ const experience = {
           company: "Adesso",
           company_url: "https://www.adesso.de",
           logo_path: "img_5.png",
-          duration: "Feb 2025 - Present",
+          duration: "Feb 2025 - Aug 2026",
           location: "Presence",
           description: `I am currently working at adesso as a Full Stack Developer, actively engaged in a variety of client-facing and internal projects. I collaborate closely with customers to deliver tailored solutions while also contributing to in-house initiatives that drive innovation across the company.`,
           // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
